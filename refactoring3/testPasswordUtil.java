@@ -9,10 +9,10 @@ public class testPasswordUtil {
                 "ValidPassword1!",   // 대문자, 소문자, 숫자 포함
                 "PaSsWoRd123@",      // 대문자, 소문자, 특수문자 포함
                 "SecurePwd!2022",    // 대문자, 특수문자, 숫자 포함
-                "9StrongPwd!",       // 소문자, 특수문자, 숫자 포함
-                "Passw0rd!!2024",    // 대문자, 소문자, 특수문자 포함
-                "My$ecurePwd11",     // 대문자, 특수문자, 숫자 포함
-                "Pwd!9876My",        // 대문자, 특수문자, 숫자 포함
+                "9strongpwd!",       // 소문자, 특수문자, 숫자 포함
+                "Passw0rd!!@@",      // 대문자, 소문자, 특수문자 포함
+                "My$ecurePwd11",     // 대문자, 소문자, 특수문자, 숫자 포함
+                "Pwd!9876My",        // 대문자, 소문자, 특수문자, 숫자 포함
                 "V@lidP@ssw0rd"      // 대문자, 소문자, 특수문자 포함
         };
 
@@ -21,7 +21,7 @@ public class testPasswordUtil {
                 "NoNumbers",                   // 특수문자, 숫자 없음
                 "nouppercaseor123",            // 특수문자, 대문자 없음
                 "SPECIAL123123",               // 특수문자, 소문자 없음
-                "12@3456789",                  // 대문자, 소문 없음
+                "12@3456789",                  // 대문자, 소문자 없음
                 "onlylower@caseletters",       // 대문자, 숫자 없음
                 "abcd1234567",                 // 대문자, 특수문자 없음
                 "ACD213456",                   // 소문자, 특수문자 없음

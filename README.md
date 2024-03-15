@@ -11,4 +11,4 @@
 
 5) [refactoring5](https://velog.io/@ngngs/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-5%ED%83%84Optional) : Optional 사용하기
 
-6) [https://velog.io/@ngngs/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-6%ED%83%84-DIP-OCP-%EC%A7%80%ED%82%A4%EA%B8%B0] : DIP, OCP 원칙 지키기
+6) [refactoring6](https://velog.io/@ngngs/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-6%ED%83%84-DIP-OCP-%EC%A7%80%ED%82%A4%EA%B8%B0) : DIP, OCP 원칙 지키기
